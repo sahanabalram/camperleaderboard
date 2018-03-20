@@ -1,9 +1,16 @@
 .colorBlack {
     color: black;
+    font-weight: bold;
+    
 }
 
 .imgHeight {
     height: 50px;
     float: left;
     border: 1px solid black;
+}
+
+#table-head {
+    background: brown;
+    font-size: 24px;
 }

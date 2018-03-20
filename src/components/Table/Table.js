@@ -35,7 +35,7 @@ class TableContainer extends Component {
         return (
             <div className="container">
                 <Table striped bordered condensed hover className="colorBlack">
-                    <thead>
+                    <thead id="table-head">
                         <tr>
                             <th>#</th>
                             <th>Camper Name</th>
